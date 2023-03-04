@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning **Vue3 | Express | NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/flingyp](https://github.com/flingyp)
+- 👨‍💻 All of my projects are available at [https://github.com/attraction11](https://github.com/attraction11)
 
-- 📝 I regularly write articles on [https://yyblog.top](https://yyblog.top)
+- 📝 I regularly write articles on [https://attraction11.github.io/](https://attraction11.github.io/)
 
-- 📫 How to reach me **flingyp@163.com**
+- 📫 How to reach me **18300707034@163.com**
