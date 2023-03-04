@@ -2,11 +2,9 @@
 
 <br />
 
-- 🔭 I am a junior majoring in computer science
+- 🔭 I am a Front-end engineer
 
-- ⚡At present, my open source projects include [VAdmire Plus](https://github.com/flingyp/vue-admire-plus) | [@flypeng/tool](https://github.com/flingyp/flypeng-tool) | [vitepress-demo-preview](https://github.com/flingyp/vitepress-demo-preview)
-
-- 🌱 I’m currently learning **Vue3 | Vite | NodeJS**
+- 🌱 I’m currently learning **Vue3 | Express | NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/flingyp](https://github.com/flingyp)
 
