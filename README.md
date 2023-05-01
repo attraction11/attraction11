@@ -4,7 +4,7 @@
 
 - 🔭 I am a Front-end engineer
 
-- 🌱 I’m currently learning **React18 | Nest.js | Go**
+- 🌱 I’m currently learning **React18 | Nest.js | Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/attraction11](https://github.com/attraction11)
 
