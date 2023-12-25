@@ -10,6 +10,6 @@
 
 - 📝 I regularly write articles on [https://attraction11.github.io/](https://attraction11.github.io/)
 
-- 📫 How to reach me **18300707034@163.com**
+- 📫 How to reach me **jiankangcui@outlook.com**
 
 - 🚀 Friendship link [https://github.com/bowencool](https://github.com/bowencool)
